@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["SV9AFY294W.com.frederickajay.merchantledger"],
+        "components": [
+          { "/": "/j/*", "comment": "Shop invite links (https://DOMAIN/j/<code>); only used once the accounts feature is on" }
+        ]
+      }
+    ]
+  }
+}
